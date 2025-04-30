@@ -1,5 +1,5 @@
 
-# Pandey Bakery
+# Mamgain Bakery
 
 Welcome to the Bakery Management System! This application is designed to streamline inventory management for bakeries using a modern microservices architecture. Whether you're managing cakes, pastries, or bread, this system helps you keep track of your sweet business efficiently!
 
@@ -28,7 +28,7 @@ Follow these steps to set up the Bakery Management System on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Yash-pandey19/Indian-Bakery.git
+git clone https://github.com/AnshitMamgain/repository.git
 cd Indian-Bakery
 ```
 ### 2. **Launch Services** ✨
@@ -45,9 +45,9 @@ http://localhost:80
 
 ## Final Output 
 
-![Output 1](images/home.png)
-![Output 2](images/docker-home.png)
-![Output 3](images/bakery-running.png)
+![Output 1](images/homepage.png)
+![Output 2](images/doc-home.png)
+![Output 3](images/docker-running.png)
 
 
 ## Contribution Welcome!
